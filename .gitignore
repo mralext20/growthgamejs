@@ -1,0 +1,4 @@
+# Do not want save file
+profile.json
+node_modules
+node_modules/

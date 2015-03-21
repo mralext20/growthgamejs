@@ -1,0 +1,15 @@
+{
+	"name": "growth-game",
+	"version": "0.0.2",
+	"description": "A game about surviving in the wilderness.",
+	"author": "Ryan Tongol <cheesy.fried.bacon@gmail.com>",
+	"dependencies": {
+		"colors": "1.0.3",
+		"progress": "1.1.8",
+		"readline-sync": "0.7.8",
+		"sleep": "2.0.0",
+		"underscore": "1.8.2"
+	},
+	"preferGlobal": true,
+	"private": true
+}

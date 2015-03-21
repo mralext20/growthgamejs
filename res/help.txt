@@ -1,0 +1,35 @@
+Introduction
+  Growth is a game about growing using the environment around you.
+
+Hunger
+  Hunger can increase and decrease every time you do something.
+  Once your hunger reaches 100, you die (losing all items), so make sure
+  you eat when your hunger rises high!
+
+Commands
+  Growth is a game in which you type in commands using a keyboard.
+  However there are only certain commands the game will understand.
+  Some commands are global (can be used from anywhere), while some
+  are specific to their locations, for example, you can only
+  "relax" at home.
+
+travel [location]
+  Use this command to go somewhere. However it takes time to travel, and you
+  get a bit hungry each time.
+
+[action] [descriptors]
+  Once somewhere initiate an action.
+  Some actions take time. Some more than others.
+
+stock
+  Displays your stock (inventory). Displays all items you have and their amounts.
+
+eat [item]
+  Eats something from your inventory, lowering your hunger. How much hunger
+  is lowered depends on what you are eating.
+
+Saving and Loading your game
+  You probably want to keep track of your progress, right?
+  Use the `save' and `load' commands to save and load your save file.
+  That easy! Take note that the save command will overwrite any `profile.json` file in the
+  vicinity. Beware!
